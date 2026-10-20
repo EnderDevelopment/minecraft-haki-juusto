@@ -1,0 +1,16 @@
+name: EnderStrike
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A plugin with special abilities for Minecraft
+api-version: "1.21"
+commands:
+  rstrike:
+    description: Explosive strike
+    usage: /rstrike
+  lstrike:
+    description: Forward dash
+    usage: /lstrike
+  kstrike:
+    description: Temporary shield
+    usage: /kstrike
